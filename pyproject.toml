@@ -6,7 +6,7 @@ authors = [
     { name = "George", email = "bboygg94@gmail.com" }
 ]
 dependencies = [
-    "fastapi[standard] ~= 0.115.6",
+    "fastapi[standard]~=0.115.6",
     "pydantic-settings",
     "uvicorn"
 ]
@@ -51,6 +51,7 @@ exclude = [
     "dist",
     "node_modules",
     "venv",
+    "pyproject.toml",
 ]
 lint.per-file-ignores = {}
 
