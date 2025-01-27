@@ -1,1 +1,1 @@
-# seollal-bootcamp-2025
+Boot Camp
