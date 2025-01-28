@@ -1,6 +1,6 @@
 [project]
 name = "seollal-bootcamp-2025"
-description = "A base project for the Seollal bootcamp"
+description = "A project for the Seollal bootcamp"
 version = "0.1.0"
 authors = [
     { name = "George", email = "bboygg94@gmail.com" }
